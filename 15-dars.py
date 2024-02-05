@@ -1,4 +1,3 @@
-# 
 # array 18
 # array = [12,26,35,3,68,39,29,18,2,15,13,11]
 # for i in range(len(array)):
